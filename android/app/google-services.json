@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380413581550",
+    "project_id": "rn-eson",
+    "storage_bucket": "rn-eson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380413581550:android:0b30683927bcdb412cbbff",
+        "android_client_info": {
+          "package_name": "com.eson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380413581550-d8qge96almvu4s75tds4rvkti9qj018v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eson",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "380413581550-dr8cb5pmp2k7snhcbqgbu8j4ts99qq6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eson",
+            "certificate_hash": "6fcc34126b830d27a0bc1ecbf5ece24f91275b19"
+          }
+        },
+        {
+          "client_id": "380413581550-pha48prpkq48mbettbuvunf7bstk4110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvtTGU4wETpM9IIjx_wvUzicLDPqikSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380413581550-pha48prpkq48mbettbuvunf7bstk4110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
